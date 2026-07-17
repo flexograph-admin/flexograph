@@ -1,0 +1,9 @@
+{
+    "GRAPH_PROJECT_DIR": "/path/to/flexograph",
+    "KRON_GEN_PATH": "/path/to/gapbs/converter",
+    "KRON_GRAPHS_PATH": "/path/to/graph/datasets",
+    "DB_DIR": "/path/to/db",
+    "GOLDEN_DIR": "/path/to/golden/datasets",
+    "LOG_DIR": "/path/to/logs",
+    "num_threads": 16
+}
